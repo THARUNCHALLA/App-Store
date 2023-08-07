@@ -1,0 +1,14 @@
+.list1 {
+  list-style: none;
+  margin-left: 16px;
+}
+.head {
+  font-family: 'bree serif';
+  font-size: 14px;
+  color: #7b8794;
+  border: none;
+}
+.btn-primary {
+  text-decoration: underline;
+  color: #2563eb;
+}
